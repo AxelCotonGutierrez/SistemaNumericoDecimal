@@ -1,4 +1,4 @@
-
+// Axel Cotón Gutiérrez Copyright 2023
 // Variables globales para las unidades y el número máximo de ceros
 let units = ["unidades", "decenas", "centenas", "unidades de millar"]; // Valor por defecto
 let maxZeros = 3;
