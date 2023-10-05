@@ -1,4 +1,4 @@
-# Juego para aprender a contar usando imágenes de leones
+# Juego para aprender a usar el Sistema de Numeración Decimal
 
 
 ![Juego del Sistema Numérico Decimal](https://axelcotongutierrez.github.io/learningmathematicas/assets/images//posts/SND/J01SND.jpg)
@@ -11,18 +11,15 @@ Juego para ESO, ESPA o ESPAD para aprender a usar el Sistema Numérico Decimal
 
 Puedes probar el juego en esta url:
 
-https://axelcotongutierrez.github.io/Contarhasta3leones/
+https://axelcotongutierrez.github.io/SistemaNumericoDecimal/
 
-¡Bienvenido al desafiante juego "Contando Leones"!
+¡Prepárate para una emocionante aventura de aprendizaje en nuestro juego sobre el Sistema de Numeración Decimal!
 
-En este divertido y educativo juego, pondrás a prueba tus habilidades de conteo mientras te sumerges en un fascinante mundo de leones. Tu misión es contar con precisión cuántos leones aparecen en cada escena y seleccionar el botón correspondiente para dar tu respuesta.
+En este desafío, tendrás la oportunidad de poner a prueba y mejorar tu dominio sobre el sistema numérico que utilizamos en la vida cotidiana. Se te harán una serie de preguntas donde tendrás que responder con precisión cuántas unidades, decenas, centenas,... así hasta billones si fuera necesario.
 
-¿Eres capaz de contar cuántos leones hay 5 veces sin equivocarte? Este juego te retará a concentrarte, observar atentamente y utilizar tus habilidades matemáticas para alcanzar la victoria.
+Nuestro juego está diseñado para adaptarse a tu nivel de habilidad. Comenzarás en el primer nivel, donde responderás preguntas hasta las unidades de millar. A medida que adquieras confianza y destreza, avanzarás a niveles superiores, ampliando tus conocimientos hasta las unidades de millón, millardo ¡e incluso billón!
 
-Cada turno te presentará una imagen única con uno, dos o tres leones. Tendrás todo el tiempo que necesites para estudiar la escena y contar cuidadosamente la cantidad de leones presentes. Luego, simplemente selecciona el botón con el número correcto de leones contados. ¡Es así de sencillo! Este juego te retará a concentrarte, observar atentamente y utilizar tus habilidades matemáticas para alcanzar la victoria.
+Lo mejor de todo es que no hay límite en la cantidad de preguntas que puedes responder. Juega tanto como desees, hasta que te sientas completamente satisfecho o hasta que domines el nivel que necesitas.
 
-"Contando Leones" es perfecto para ejercitar tu mente y mejorar tus habilidades de conteo. Además, es una manera divertida de poner a prueba tus conocimientos y superar tus propios récords.
+Así que, ¿estás listo para sumergirte en este desafío y convertirte en un experto en el Sistema de Numeración Decimal? ¡Diviértete explorando, aprendiendo y superando tus propios límites! ¡El mundo de los números te espera!
 
-No importa si eres un experto en el conteo o si estás buscando practicar y perfeccionar tus habilidades. ¡"Contando Leones" es para todos! Acepta el desafío y disfruta de la emoción de contar mientras te sumerges en el mundo de estos majestuosos animales.
-
-¿Estás listo para demostrar tus habilidades de conteo y convertirte en el rey o la reina de los leones? ¡Ponte a prueba ahora y disfruta de la diversión de "Contando Leones"! ¡Que comience el desafío de contar leones! ¡Buena suerte y diviértete jugando!
