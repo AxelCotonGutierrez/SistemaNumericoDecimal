@@ -1,7 +1,7 @@
 # Juego para aprender a contar usando imágenes de leones
 
 
-![Juego de los leones](https://axelcotongutierrez.github.io/learningmathematicas/assets/images//posts/SND/J01SND.jpg)
+![Juego del Sistema Numérico Decimal](https://axelcotongutierrez.github.io/learningmathematicas/assets/images//posts/SND/J01SND.jpg)
 
 Dentro del blog: https://axelcotongutierrez.github.io/learningmathematicas/
 
