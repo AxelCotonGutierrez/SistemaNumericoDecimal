@@ -115,4 +115,7 @@ input[type="text"] {
   input[type="text"] {
     width: 90%; /* Ancho máximo del 90% en dispositivos móviles */
   }
+  .textosuperior {
+    font-size: 20px; /* Tamaño de texto superior en dispositivos móviles */
+  }
 }
