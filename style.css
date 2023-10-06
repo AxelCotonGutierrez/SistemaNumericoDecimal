@@ -106,13 +106,7 @@ input[type="text"] {
     max-width: 90%; /* Ancho completo en dispositivos móviles */
   }
 
-  .guess-button {
-    width: auto; /* Ancho automático en dispositivos móviles */
-    height: auto; /* Altura automática en dispositivos móviles */
-    font-size: 25px;
-    margin-bottom: 10px;
-  }
-  
+
   input[type="text"] {
     width: 90%; /* Ancho máximo del 90% en dispositivos móviles */
   }
