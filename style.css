@@ -50,9 +50,6 @@ h1 {
   overflow: hidden; /* Evitar desbordamiento horizontal en dispositivos móviles */
 }
 
-.container .inner-container {
-  min-width: 300px; /* Establece un ancho mínimo para el .container interior */
-}
 
 .textosuperior {
   font-size: 30px;
